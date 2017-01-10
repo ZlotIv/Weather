@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="api_key">bc036ae71c6539f0868f4e3ccfaab3cd</string>
+    <string name="web_service_url">http://api.openweathermap.org/data/2.5/forecast/daily?q=</string>
+    <string name="invalid_url">Неправильный URL</string>
+    <string name="weather_condition_image">Графическое представление погодных условий</string>
+    <string name="max_temp">Max: %s</string>
+    <string name="min_temp">Min: %s</string>
+    <string name="day_description">%1$s: %2$s</string>
+    <string name="humidity">Влажность: %s</string>
+    <string name="hint_text">Введите город (Moscow)</string>
+    <string name="read_error">невозможно прочитать данные о погоде</string>
+    <string name="connect_error">Невозможно подключиться к OpenWeatherMap.org</string>
+</resources>
